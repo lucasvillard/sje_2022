@@ -23894,7 +23894,7 @@ screen and (-ms-high-contrast:active) {
     width: 100%;
     display: block;
     content: "";
-    background: rgba(0, 0, 0, .6)
+    background: rgba(0, 0, 0, 0)
 }
 
 @media (min-width:992px) {
